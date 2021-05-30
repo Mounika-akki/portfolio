@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c7e8e24efc7decae3ce9c1c6a99955da",
+    "revision": "cdd5d4448c80ae6f61c175fc67e26742",
     "url": "/Mounika-akki/portfolio/index.html"
   },
   {
-    "revision": "49edef931f7338b63b1c",
-    "url": "/Mounika-akki/portfolio/static/css/main.9b4f1150.chunk.css"
+    "revision": "e26daa180c10b59618fd",
+    "url": "/Mounika-akki/portfolio/static/css/main.de42e7ac.chunk.css"
   },
   {
     "revision": "9e10d736341952531093",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Mounika-akki/portfolio/static/js/2.df214b33.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "49edef931f7338b63b1c",
-    "url": "/Mounika-akki/portfolio/static/js/main.ab05955f.chunk.js"
+    "revision": "e26daa180c10b59618fd",
+    "url": "/Mounika-akki/portfolio/static/js/main.6d311dcc.chunk.js"
   },
   {
     "revision": "896d998cf4038877b98e",
@@ -84,8 +84,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Mounika-akki/portfolio/static/media/git-icon.1190a19c.svg"
   },
   {
-    "revision": "567f006b9ca974f343db1c9c79920074",
-    "url": "/Mounika-akki/portfolio/static/media/github.567f006b.svg"
+    "revision": "0ff1a6f08182be4aa63a0b54da1b9e57",
+    "url": "/Mounika-akki/portfolio/static/media/github.0ff1a6f0.svg"
   },
   {
     "revision": "b38ff61aa327fbdc24f7b1dad7d04d1a",
@@ -156,8 +156,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Mounika-akki/portfolio/static/media/redux.aa0a3376.svg"
   },
   {
-    "revision": "075ae0ee9c047c64c242d7d2d6b788dd",
-    "url": "/Mounika-akki/portfolio/static/media/sails.075ae0ee.svg"
+    "revision": "dd34c0440bf0f2fec2b0ff23a76a0e8a",
+    "url": "/Mounika-akki/portfolio/static/media/sails.dd34c044.svg"
   },
   {
     "revision": "8cf9824ffc3260c10a74867ae17e0520",
