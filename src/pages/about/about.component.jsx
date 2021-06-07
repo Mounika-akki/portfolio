@@ -25,19 +25,18 @@ const About = () => {
                     and MongoDB as my tech stack.
                   </li>
                   <li>
+                    Working on multiple projects as a full stack developer at
+                    wysa
+                  </li>
+                  <li>
                     Trained in Full Stack Development-MERN Stack from Guvi with
                     hands on experience on all technologies involved working on
                     numerous projects.
                   </li>
                   <li>
                     I love learning about new technologies, what problems they
-                    are solving and How can I use them to build better and
-                    scalable products.
-                  </li>
-                  <li>
-                    Presently pursuing my master degree in Business
-                    Administration with specialization in Information technology
-                    in distance mode.
+                    solve and How can I use them to build better and scalable
+                    products.
                   </li>
                 </ul>
                 <br /> <br />
