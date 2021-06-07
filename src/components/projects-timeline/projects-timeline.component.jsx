@@ -40,19 +40,17 @@ const Projects = () => {
   // const [load, setLoad] = useState(false)
   return (
     <div id="projects">
-      {console.log("Projects timeline component loaded")}
       <h1 className="pt-3 text-center font-details-b pb-3">PROJECTS</h1>
       <Timeline>
         <Events>
           {/* Project: Amazon Clone */}
           <ImageEvent
-            date="10/02/2020"
+            date="05/02/2021"
             className="text-center"
             text="Amazon Clone"
             src={L_AmazonClone}
             alt="Amazon Clone"
           >
-            {console.log("Amazon project loaded")}
             <div className="d-flex justify-content-between flex-column mt-1">
               <div>
                 <Accordion>
@@ -67,7 +65,6 @@ const Projects = () => {
 
                     <Accordion.Collapse eventKey="0" className="text-left">
                       <Card.Body>
-                        {console.log("Amazon clone")}
                         <strong>Description:</strong> A complete clone of Amazon
                         website with all the features of a ecommerce.
                         <hr />

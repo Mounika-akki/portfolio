@@ -10,7 +10,7 @@ const Experience = () => {
     <div id="experience">
       <h1 className="pt-3 text-center font-details-b pb-3">EXPERIENCE</h1>
       <Jumbotron className="jumbo-style">
-      <Container>
+        <Container>
           <Tilt options={{ max: 25 }}>
             <Card>
               <Card.Header
@@ -22,28 +22,34 @@ const Experience = () => {
               <Card.Body className="d-flex justify-content-center flex-column">
                 <div>
                   <Card.Title className="text-center">
-                    Full Stack Web Developer 
+                    Full Stack Web Developer Intern
                   </Card.Title>
                 </div>
                 <div>
                   <Card.Text className="text-center style">
-                    <strong>Duration:</strong> April 2021 - June 2021
+                    <strong>Duration:</strong> April 2021 - Present
                     <br />
                     <strong> Description </strong>
                     <ul className="text-left">
                       <li>
-                        Underwent intense training on full stack web development
-                        (MERN) with a number of projects and hands on experience
-                        with each and every technology involved. Worked on daily
-                        tasks and assessments and performed well in all of them.
+                        Implemented enhancements and upgradations that improved
+                        web functionality and responsiveness. Created reusable
+                        components with react js.
                       </li>
-                      <li>Training was focused on making us industry ready.</li>
-
+                      <li>
+                        Managed website development projects from initial user
+                        requirement gathering, coordinating with design,
+                        compliance and testing teams till final completion and
+                        release.
+                      </li>
+                      <li>
+                        Developed and maintained client website features, taking
+                        complete responsibility of both frontend and backend.
+                      </li>
                       <li>
                         <strong> Technologies involved : </strong>
-                        React.js, Redux, Redux Saga, Nodejs,
-                        Expressjs, Sails js, Rest api, MongoDB,
-                        Javascript, HTML5, CSS3, Git.
+                        React.js, Redux Saga, Nodejs, Expressjs, Sails js, Rest
+                        api, MongoDB, Material-UI, Javascript, HTML5, CSS3, Git.
                       </li>
                     </ul>
                   </Card.Text>
@@ -52,9 +58,9 @@ const Experience = () => {
             </Card>
           </Tilt>
         </Container>
-        <br/>
+        <br />
         <Container>
-          <Tilt options={{ max: 25 }}>
+          <Tilt options={{ max: 5 }}>
             <Card>
               <Card.Header
                 as="h5"
