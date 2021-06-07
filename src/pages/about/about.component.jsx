@@ -50,7 +50,7 @@ const About = () => {
                   </div>
                   <div>
                     <a
-                      href="https://drive.google.com/file/d/1VKlUv2DSeEbXtK7v37GCEbfNzQoUE1Aw/view?usp=sharing"
+                      href="https://drive.google.com/file/d/1vCHuKdAm0OHWuid3E8zQ_N68Lx7s5zqE/view?usp=sharing"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
